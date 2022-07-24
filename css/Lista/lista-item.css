@@ -1,0 +1,20 @@
+.lista__item {
+    color: #000000;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 35px;
+}
+
+
+.lista__link {
+    color: #000000;
+    font-family: fantasy;
+    font-size: 17px;
+    padding: 30px;
+}
+
+
+
+.lista__item--logo {
+    width: 60%;
+}
