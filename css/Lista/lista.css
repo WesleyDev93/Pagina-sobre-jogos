@@ -1,8 +1,9 @@
 .lista {
     background-color: green;
+    border-radius: 30px;
     display: flex;
     flex-direction: column;
     padding: 2rem;
+    text-decoration: underline;
     width: 20%;
-    border-radius: 30px;
 }
