@@ -1,0 +1,9 @@
+.titulo {
+color: #000000;
+font-family: fantasy;
+font-size: 48px;
+left: 45%;    
+position: absolute;
+padding: 2rem;
+text-align: center;
+}
