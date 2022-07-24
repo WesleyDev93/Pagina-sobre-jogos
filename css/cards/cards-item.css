@@ -1,0 +1,23 @@
+
+.cards__item {
+  border:  1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: fantasy, cursive;
+  font-size: 1.32rem; 
+}
+
+.card--primario {
+    
+}
+
+
+.card--secundario {
+    margin-top: 50px;
+}
+
+
+.card--terciario {
+    margin-top: 50px;
+}

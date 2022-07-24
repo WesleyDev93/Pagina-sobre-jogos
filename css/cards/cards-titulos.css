@@ -1,0 +1,33 @@
+.cards__titulo01 {
+font-family: fantasy, cursive;
+font-size: 1.4rem;
+padding-left:12px;
+position: absolute;
+right: 54%;
+text-decoration: underline;
+
+}
+
+
+
+.cards__titulo02 {
+    font-family: fantasy, cursive;
+    font-size: 1.4rem;
+    padding-left:12px;
+    position: absolute;
+    text-decoration: underline;
+    right: 56%;   
+}
+
+
+
+
+.cards__titulo03 {
+    font-family: fantasy, cursive;
+    font-size: 1.4rem;
+    padding-left:12px;
+    position: absolute;
+    text-decoration: underline;
+    right: 56%;   
+}
+
