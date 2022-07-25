@@ -31,3 +31,27 @@ text-decoration: underline;
     right: 56%;   
 }
 
+
+.cards__titulo01:hover {
+       color: yellow;
+       font-size: 1.9rem;
+       transition: .5s;
+
+}
+
+
+
+.cards__titulo02:hover {
+    color: yellow;
+    font-size: 1.9rem;
+    transition: .5s;
+    
+}
+
+
+.cards__titulo03:hover {
+    color: yellow;
+    font-size: 1.9rem;
+    transition: .5s;
+   
+}

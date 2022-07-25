@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="./css/cards/cards-imagem.css">
     <link rel="stylesheet" href="./css/cards/cards-conteudo.css">
     <link rel="stylesheet" href="./css/rodape.css">
+    <link rel="stylesheet" href="./css/Formulario/formulario.css">
+    <link rel="stylesheet" href="./css/Formulario/formulario-conteudo.css">
 
     <title>Xbox's Games</title>
 </head>
@@ -24,7 +26,7 @@
 <body>
 
     <div>
-        <h1 class="titulo">Últimas Notícias</h1>
+        <h1 class="titulo"> Últimas Notícias</h1>
         <p class="titulo__item">Clique nos titulos para ir as matérias</p>
     </div>
     
@@ -73,26 +75,48 @@
 <nav>
 <ul>
     <li class="lista__item  lista__item--logo"><img src="./img/controle.png" alt="Controle de Xbox"></li>
-    <li class="lista__item">Jogos</li>
-    <li class="lista__item"> Fóruns</li>
-    <li class="lista__item">Empresas</li>
-    <li class="lista__item">Suporte</li>
-    <li class="lista__link">Entrar e Registrar</li>
+    <li class="lista__item"><a href="#">Jogos</a></li>
+    <li class="lista__item"><a href="#">Fóruns</a></li>
+    <li class="lista__item"><a href="#">Empresas</a></li>
+    <li class="lista__item"><a href="#">Suporte</a></li>
+    <li class="lista__item"><a href="#">Músicas</a></li>
+    <li class="lista__item"><a href="#">Videos</a></li>
+    <li class="lista__link"><a href="#"> Entrar e Registrar</a></li>
 </ul>
 </nav>
 <div>
     <ul class="icones">
-        <li class="icones__item"><img src="./img/logo-ig-instagram-icon-download-icons-12 1.png" alt=""></li>
-        <li class="icones__item"><img src="./img/twitter-logo-6 1.png" alt=""></li>
-        <li class="icones__item"><img src="./img/reddit-logo-16 1.png" alt=""></li>
+        <li class="icones__item"><a href="#" class="icones__item"><img src="./img/logo-ig-instagram-icon-download-icons-12 1.png" alt=""></a></li>
+        <li class="icones__item"><a href="#" class="icones__item"><img src="./img/twitter-logo-6 1.png" alt=""></a></li>
+        <li class="icones__item"><a href="#" class="icones__item"><img src="./img/reddit-logo-16 1.png" alt=""></a></li>
     </ul>
 </div>
 </section>
 
 <footer>
+<hr>
 
 <p class="rodape">&copy Desenvolvido por Wesley Oliveira Miyashiro</p>
 
+<p class="faleconosco">Fale Conosco</p>
+
+<form action="#" method="post" class="formulario">
+<div class="formulario__conteudo">
+    <label for="nome" >Nome:</label>
+    <input type="text" id="nome"/>
+</div>
+<div class="formulario__conteudo">
+    <label for="email">E-mail:</label>
+    <input type="email" id="email"/>
+</div>
+<div class="formulario__conteudo">
+    <label for="Telefone">Telefone:</label>
+    <input type="telefone" id="telefone"/>
+</div>
+<div class="botao">
+    <button type="submit">Enviar</button>
+</div>
+</form>
 
 </footer>
     

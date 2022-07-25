@@ -3,3 +3,9 @@
     border-radius: 80px;
    padding: 10px 2px 10px 2px;
 }
+
+
+.cards__imagem:hover {
+    width: 60%;
+    transition: .10s;
+}

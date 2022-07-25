@@ -22,3 +22,19 @@
 .lista__item--logo {
     width: 65%;
 }
+
+
+
+.lista__item:hover {
+    color: yellow;
+    font-size: 45px;
+    transition: .10s;
+}
+
+
+.lista__link:hover {
+    color: yellow;
+    font-size: 25px;
+    transition: .10s;
+    
+}
