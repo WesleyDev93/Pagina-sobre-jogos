@@ -1,3 +1,21 @@
 .logosfinais {
-    
+    margin-left: 20px;
+    height:70px;
+    padding: 1rem;
+    position: relative;
+    width: 70px;   
 }
+
+
+
+.logofinais__01 {
+    bottom: 6.2rem;
+    margin-left: 20px;
+    left: 10%;
+    height:180px;
+    padding: 0;
+    position: relative;
+    width: 180px;
+
+}
+
