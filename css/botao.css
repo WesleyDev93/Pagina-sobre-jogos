@@ -1,0 +1,29 @@
+.botao {
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+    font-family: fantasy;
+    font-weight:80;
+    left: 5rem;
+    margin: 10px 0 10px 0;
+    position: relative;
+    text-align: center;
+    width: 10%;
+}
+
+
+#click {
+    display: none;
+}
+
+
+#click:checked  {
+    background-color: transparent;
+    border:inset ;
+}
+
+
+.botao:hover {
+    color: yellow;
+}
+
