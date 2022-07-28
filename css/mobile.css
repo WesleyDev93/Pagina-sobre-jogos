@@ -1,0 +1,193 @@
+@media screen and (max-width: 375px) {
+    body {
+        background-size: 600%;
+    }
+}
+
+
+ /* TITULO */
+
+@media screen and (max-width: 375px) {
+    .titulo {
+        font-size: 2.5rem;
+        left: 100px;
+        right: auto;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .titulo__item {
+        font-size: 0.9rem;
+        left: 110px;
+        margin: 25px;
+    }
+}
+
+/* lISTA */
+
+@media screen and (max-width: 375px) {
+    .lista {
+        align-items: center;
+        
+        
+    }
+}
+
+
+
+@media screen and (max-width: 375px) {
+    .lista__item {
+        font-size: 0.9rem;
+        width: 35px;
+    
+        
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .lista__link {
+        font-size: 0.9rem;
+    
+        
+    }
+}
+
+/* ICONE */
+
+@media screen and (max-width: 375px) {
+    .icones {
+        flex-direction: column;
+    
+        
+    }
+}
+
+/* CARDS */ 
+
+@media screen and (max-width: 375px) {
+    .cards {
+        left: 95px;
+        width: 260px;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .cards__titulo01 {
+        left: auto;
+        font-size: 1.5rem;
+        right: auto;
+        
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .cards__titulo02 {
+        left: auto;
+        right: auto;
+        
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .cards__titulo03 {
+        left: auto;
+        right: auto;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .cards__conteudo {
+        font-size: 0.9em;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .cards__imagem {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .card--primario {
+        margin: 15px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .card--secundario {
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .card--terciario {
+        height: 300px;
+        margin: 10px;
+        width: 92%;
+       
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .quebralinha {
+       display: none;
+    }
+}
+
+
+/* FORMULARIO */ 
+
+@media screen and (max-width: 375px) {
+    .formulario {
+        flex-direction: column;
+        width: 90%;
+    }
+}
+
+
+/* FALE CONOSCO  */ 
+
+@media screen and (max-width: 375px) {
+    .faleconosco__dados {
+     font-size: 1.1rem;
+    }
+}
+
+
+
+
+/* LOGOS */ 
+@media screen and (max-width: 375px) {
+    .logosfinais {
+     left: 5px;
+     top: 50px;
+     width: 50px;
+    }
+}
+
+
+
+@media screen and (max-width: 375px) {
+    .logofinais__01 {
+        bottom: 40px;
+        left: 100px;
+        width: 120px;
+    }
+}
+
+
+/* RODAPÉ */ 
+
+@media screen and (max-width: 375px) {
+    .rodape {
+    position: relative;
+    top: 370px;
+    width: 100%;
+}
+}
+
+

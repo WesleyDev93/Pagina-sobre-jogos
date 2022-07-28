@@ -1,7 +1,15 @@
 .faleconosco {
+    height: 230px;
+    width: 1345px;
+ 
+}
+
+
+.faleconosco__dados {
     font-family: fantasy;
-    font-size: 1rem;
+    font-size: 1.5rem;
     left: 1px;
+    margin: 10px 0 0 0 ;
     position: relative;
     padding: 1rem;
 }
