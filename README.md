@@ -12,7 +12,7 @@
   - [Construído com](#construído-com)
   - [O que aprendi](#o-que-aprendi)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+
 
 ## Visão geral
 
@@ -49,6 +49,6 @@ usando o conceito atômico. juntamente com o BEM -
 
 Desenvolvimento dos métodos BEM e Atômico.
 
-
+### autor 
 - Linkedin: (https://www.linkedin.com/in/wesleyoliveiralima/)
     
