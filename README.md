@@ -23,7 +23,7 @@ Projeto esta sendo desenvolvido dentro da Mentoria " conquiste sua vaga "
 
 Os usuários devem ser capazes de:
 
-- executar os player's e botoes , e ser redirecionados as materias das noticias.
+- ter um menu lateral com links e ser redirecionados as materias das noticias.
 
 ### Captura de tela
 
@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL do site ao vivo: (<https://mobile-firts-pagina-jogos.vercel.app/>)
+- URL do site ao vivo: (<https://pagina-sobre-jogos.vercel.app/>)
 
 ## Meu processo
 
@@ -43,7 +43,7 @@ usando o conceito atômico. juntamente com o BEM -
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas de CSS
-- JavaSCript
+
 
 ### O que eu aprendi
 
